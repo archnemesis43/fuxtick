@@ -1,3 +1,4 @@
+![Alt text](https://r72.cooltext.com/rendered/cooltext467095170795864.png)
 ## fuxtick
 "fuxtick" is a program which you can use to download some of the most popular tools for Termux and Kali Linux. 
 ## HOW TO DOWNLOAD AND RUN:
