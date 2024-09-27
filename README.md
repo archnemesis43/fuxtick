@@ -14,6 +14,8 @@ cd fuxtick
 bash fuxtick.sh
 ```
 It's that easy!
+## WHAT IT LOOKS LIKE:
+![Screenshot of Program](screen.png)
 ## CREDITS:
 IP-Tracer: [https://github.com/rajkumardusad/IP-Tracer](https://github.com/rajkumardusad/IP-Tracer)  
 Zphisher: [https://github.com/htr-tech/zphisher](https://github.com/htr-tech/zphisher)  
