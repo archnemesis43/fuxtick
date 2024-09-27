@@ -12,7 +12,7 @@ echo -e "$ascii_art"
 PURPLE='\033[1;34m'
 YELLOW='\033[1;33m'
 BROWN='\033[0;33m'
-echo -e "${PURPLE}fuxtick. created by archnemesis43\nhttps://github.com/archnemesis43${NC}"
+echo -e "${PURPLE}fuxtick v2. created by archnemesis43\nhttps://github.com/archnemesis43${NC}"
 RED='\033[0;31m'
 NC='\033[0m'
 LIGHTGREEN='\033[1;32m'
