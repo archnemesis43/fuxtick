@@ -2,8 +2,17 @@
 "fuxtick" is a program which you can use to download some of the most popular tools for Termux and Kali Linux. 
 ## HOW TO DOWNLOAD:
 ```bash
+apt update
+
+apt install git -y
+
 git clone https://github.com/relaxedturtle/fuxtick
+
+cd fuxtick
+
+bash fuxtick.sh
 ```
+It's that easy!
 ## CREDITS:
 IP-Tracer: [https://github.com/rajkumardusad/IP-Tracer](https://github.com/rajkumardusad/IP-Tracer)  
 Zphisher: [https://github.com/htr-tech/zphisher](https://github.com/htr-tech/zphisher)  
