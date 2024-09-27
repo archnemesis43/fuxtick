@@ -1,5 +1,5 @@
 ![fuxtick logo](fuxtick.png)
-## fuxtick
+## WHAT IS "fuxtick"????
 "fuxtick" is a program which you can use to download some of the most popular tools for Termux and Kali Linux. 
 ## HOW TO DOWNLOAD AND RUN:
 ```bash
