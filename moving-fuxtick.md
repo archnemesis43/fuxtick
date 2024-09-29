@@ -1,3 +1,6 @@
+## MOVING FUXTICK!!
+WHAZZZAPPPPPPPP!
+In this guide, I will teach you how to move the "fuxtick.sh" file out the directory it comes installed in, and into any directory you want it to be in. Before you execute the move, do make sure that the location you are moving the program to is one that you want your cloned repositories to be in. fuxtick will automatically install any and all cloned repositories that a user selects into the same directory that the program itself is located in.
 ## FIND THE PATH OF THE FILES
 The first step you need to take is finding out where the file you want to move is actually located. You can do this using the "realpath" command in bash. Here is an example.
 First, go into the directory for fuxtick.
