@@ -1,4 +1,4 @@
-![Moving-Fuxtick-Logo](cooltext467253394887122.png)
+![Moving-Fuxtick-Logo](movingfuxtick.png)
 WHAZZZAPPPPPPPP!
 In this guide, I will teach you how to move the "fuxtick.sh" file out of the directory it comes installed in, and into any directory you want it to be in. 
 
