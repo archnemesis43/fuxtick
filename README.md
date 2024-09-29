@@ -19,7 +19,7 @@ It's that easy!
 ## RECOMMENDATION(S)
 Personally, I reccomend moving the "fuxtick.sh" file out of its directory once installed. This will ensure that the repositories you choose to download are installed into the home folder, and not into the fuxtick directory. You can do this using the following guide:
 
-[text] (
+[text] (https://github.com/relaxedturtle/fuxtick/blob/main/moving-fuxtick.md)
 ## CREDITS:
 IP-Tracer: [https://github.com/rajkumardusad/IP-Tracer](https://github.com/rajkumardusad/IP-Tracer)  
 Zphisher: [https://github.com/htr-tech/zphisher](https://github.com/htr-tech/zphisher)  
