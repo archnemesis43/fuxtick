@@ -17,7 +17,7 @@ It's that easy!
 ## WHAT IT LOOKS LIKE:
 ![Screenshot of Program](screen.png)
 ## RECOMMENDATION(S)
-Personally, I reccomend moving the "fuxtick.sh" file out of its directory once installed. This will ensure that the repositories you choose to download are installed into the home folder, and not into the fuxtick directory. You can do this using the following guide:
+Personally, I reccomend moving the "fuxtick.sh" file out of its directory once installed. This will ensure that the repositories you choose to download are installed into the home folder, and not into the fuxtick directory, making them significantly easier to access. You can do this using the following guide:
 
 [Guide](moving-fuxtick.md)
 ## CREDITS:
