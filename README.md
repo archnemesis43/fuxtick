@@ -22,7 +22,7 @@ It's that easy!
 
 (example of "fuxtick" running on Kali Linux)
 ## RECOMMENDATION(S)
-Personally, I reccomend moving the "fuxtick.sh" file out of its directory once installed. This will ensure that the repositories you choose to download are installed into the home folder, and not into the fuxtick directory, making them significantly easier to access. You can do this using the following guide:
+It is highly reccomended that users move the "fuxtick.sh" file out of its directory once it is installed. This will ensure that the repositories you choose to download are installed into the home folder, and not into the fuxtick directory, making them significantly easier to access. You can do this using the following guide:
 
 [Guide](moving-fuxtick.md)
 ## CREDITS:
