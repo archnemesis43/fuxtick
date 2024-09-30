@@ -27,17 +27,31 @@ It is highly reccomended that users move the "fuxtick.sh" file out of its direct
 [Guide](moving-fuxtick.md)
 ## CREDITS:
 IP-Tracer (by rajkumardusad): [https://github.com/rajkumardusad/IP-Tracer](https://github.com/rajkumardusad/IP-Tracer)  
+
 Zphisher (by htr-tech): [https://github.com/htr-tech/zphisher](https://github.com/htr-tech/zphisher)  
+
 Facad1ng (by spyboy-productions): [https://github.com/spyboy-productions/Facad1ng](https://github.com/spyboy-productions/Facad1ng)
+
 maskphish (by jaykali): [https://github.com/jaykali/maskphish](https://github.com/jaykali/maskphish)
+
 ipdrone (by noob-hackers): [https://github.com/noob-hackers/ipdrone](https://github.com/noob-hackers/ipdrone)  
+
 infect (by noob-hackers): [https://github.com/noob-hackers/infect](https://github.com/noob-hackers/infect)
+
 termux-desktop (by adi1090x): [https://github.com/adi1090x/termux-desktop](https://github.com/adi1090x/termux-desktop)  
+
 Free-Proxy (by mishakorzik): [https://github.com/mishakorzik/Free-Proxy](https://github.com/mishakorzik/Free-Proxy)
+
 cupp (by Mebus): [https://github.com/Mebus/cupp](https://github.com/Mebus/cupp)
+
 Seeker (by thewhiteh4t): [https://github.com/thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker)
+
 SocialBox (by samsesh): [https://github.com/samsesh/SocialBox](https://github.com/samsesh/SocialBox)
+
 SocialBox-Termux (by samsesh): [https://github.com/samsesh/SocialBox-Termux](https://github.com/samsesh/SocialBox-Termux)
+
 Aircrack-ng (by Aircrack-ng): [https://github.com/aircrack-ng/aircrack-ng](https://github.com/aircrack-ng/aircrack-ng)
+
 Setoolkit (by trustedsec): [https://github.com/trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)
+
 Wifite (by derv82): [https://github.com/derv82/wifite](https://github.com/derv82/wifite)
