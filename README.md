@@ -1,4 +1,4 @@
-![buitwithlove](https://forthebadge.com/images/badges/built-with-love.png) ![builtbycodebabes](https://forthebadge.com/images/badges/built-by-codebabes.png) ![opensource](https://forthebadge.com/images/badges/open-source.png)
+![buitwithlove](https://forthebadge.com/images/badges/built-with-love.png) ![builtbycodebabes](https://forthebadge.com/images/badges/built-by-codebabes.png) ![opensource](https://forthebadge.com/images/badges/open-source.png) ![youdidntaskforthis](https://forthebadge.com/images/badges/you-didnt-ask-for-this.png)
 
 ![fuxtick logo](fuxtick.png)
 ## WHAT IS IT?
