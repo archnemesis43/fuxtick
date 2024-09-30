@@ -3,7 +3,7 @@ https://forthebadge.com/images/badges/built-with-grammas-recipe.png)
 
 ![fuxtick logo](fuxtick.png)
 ## WHAT IS IT?
-"fuxtick" is a program which you can use to download some of the most popular tools for Termux and Kali Linux. It contains repositories which can be used for many different purposes, from tracing IP addresses to generating password lists. Be sure to use this program responsibly.
+"fuxtick" is a program which you can use to download some of the most popular tools for Termux and Kali Linux. It contains repositories which can be used for many different purposes, from tracing IP addresses to generating password lists. Be sure to use this program responsibly, ethically, and most importantly, legally.
 ## HOW TO DOWNLOAD AND RUN:
 ```bash
 apt update
