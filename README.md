@@ -1,7 +1,7 @@
 ![buitwithlove](https://forthebadge.com/images/badges/built-with-love.png) ![builtbycodebabes](https://forthebadge.com/images/badges/built-by-codebabes.png) ![opensource](https://forthebadge.com/images/badges/open-source.png) ![youdidntaskforthis](https://forthebadge.com/images/badges/you-didnt-ask-for-this.png) ![grammasrecipe](
 https://forthebadge.com/images/badges/built-with-grammas-recipe.png)
 
-   ![fuxtick logo](fuxtick.png)
+![fuxtick logo](fuxtick.png)
 ## WHAT IS IT?
 "fuxtick" is a program which you can use to download some of the most popular tools for Termux and Kali Linux. 
 ## HOW TO DOWNLOAD AND RUN:
