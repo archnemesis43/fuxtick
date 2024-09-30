@@ -1,4 +1,4 @@
-![buitwithlove](https://forthebadge.com/images/badges/built-with-love.png)
+![buitwithlove](https://forthebadge.com/images/badges/built-with-love.png) ![builtbycodebabes](https://forthebadge.com/images/badges/built-by-codebabes.png)
 
 ![fuxtick logo](fuxtick.png)
 ## WHAT IS IT?
