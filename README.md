@@ -46,9 +46,9 @@ cupp (by Mebus): [https://github.com/Mebus/cupp](https://github.com/Mebus/cupp)
 
 Seeker (by thewhiteh4t): [https://github.com/thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker)
 
-SocialBox (by samsesh): [https://github.com/samsesh/SocialBox](https://github.com/samsesh/SocialBox)
+SocialBox (by Belahsan Ouerghi): [https://github.com/samsesh/SocialBox](https://github.com/samsesh/SocialBox)
 
-SocialBox-Termux (by samsesh): [https://github.com/samsesh/SocialBox-Termux](https://github.com/samsesh/SocialBox-Termux)
+SocialBox-Termux (by Belahsan Ouerghi): [https://github.com/samsesh/SocialBox-Termux](https://github.com/samsesh/SocialBox-Termux)
 
 Aircrack-ng (by Aircrack-ng): [https://github.com/aircrack-ng/aircrack-ng](https://github.com/aircrack-ng/aircrack-ng)
 
